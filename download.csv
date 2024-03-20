@@ -1,0 +1,11 @@
+EMP_ID,FIRST_NAME,LAST_NAME,DESIGNATION,SALARY,DOJ
+1001,kumar,babu,jr_analyst,10000,01-JAN-14
+1002,sai,babu,jr_analyst,10000,05-JAN-14
+1003,dinesh,babu,jr_analyst,10000,10-JAN-14
+1004,naresh,babu,sr_analyst,16000,01-FEB-10
+1005,ravi,kumar,sr_analyst,16000,01-MAR-10
+1006,seshu,vardan,sr_analyst,16000,01-AUG-12
+1007,sai,vardan,developer,15000,01-JUL-14
+1008,sasi,kanth,developer,15000,01-JUL-14
+1009,prasanth,reddy,developer,15000,01-AUG-17
+1010,rakesh,reddy,developer,15000,01-AUG-16
